@@ -33,15 +33,16 @@ Kool kicks is a fully functional sneaker store. Where uou can find your perfect 
 ## Screenshots
 
 **Desktop version:** 
-![Kool kicks Desktop View](https://i.postimg.cc/63Vm5vxd/Screenshot-from-2023-03-27-12-14-56.png)
+![Desktop view](https://user-images.githubusercontent.com/89379595/231350331-64c59ba7-2030-4a58-996e-ebb2fd589b82.png)
+
 
 
 Cart:
-![Cart view](https://i.postimg.cc/76SDSVjd/Screenshot-from-2023-03-27-12-18-26.png)
+![Cart](https://user-images.githubusercontent.com/89379595/231350481-a13dc7ca-4e86-45d7-a7ed-92e82b0d8749.png)
 
 Register:
 
-![Login and signup](https://i.postimg.cc/Kzz6cy2Z/Screenshot-from-2023-03-27-12-19-52.png)
+![image](https://user-images.githubusercontent.com/89379595/231350585-266c206a-426f-4e58-9c21-2681d4c51c09.png)
 
 Login:
 
