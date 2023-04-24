@@ -10,15 +10,11 @@ import productRoutes from './routes/productRoutes.js';
 import paymentRoute from './routes/paymentRoute.js';
 import cors from 'cors';
 import Razorpay from 'razorpay';
-// import path from 'path';
-// import { fileURLToPath } from 'url';
+
 
 // express call
 const app = express();
 
-//es module
-// const __filename = fileURLToPath(import.meta.url);
-// const __dirname = path.dirname(__filename);
 // middlewares
 app.use(cors());
 app.use(express.json());
@@ -41,12 +37,6 @@ app.get('/api/getkey', (req, res) => {
     key_secret: process.env.RAZORPAY_APT_SECRET,
   });
 });
-
-
-//For page not found redirection
-// app.use('*', function (req, res) {
-//   res.sendFile(path.join(__dirname, './client/dist/index.html'));
-// });
 
 export const instance = new Razorpay({
   key_id: process.env.RAZORPAY_API_KEY,
